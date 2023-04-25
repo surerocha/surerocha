@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Sure</h1>
+<h1 align="center">Oii 👋, Sure</h1>
 <h3 align="center">Um desenvolvedor frontend apaixonado do Brasil.</h3>
 
 <p align="left"> <img src=" https://komarev.com/ghpvc/?username=surerocha&label=Profile%20views&color=0e75b6&style=flat" alt="surerocha" /> </p>
