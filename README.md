@@ -1,5 +1,5 @@
 <h1 align="center">Oii 👋, Sure</h1>
-<h3 align="center">Um desenvolvedor frontend apaixonado do Brasil.</h3>
+<h2 align="center">Um desenvolvedor frontend apaixonado do Brasil.</h3>
 
 <p align="left"> <img src=" https://komarev.com/ghpvc/?username=surerocha&label=Profile%20views&color=0e75b6&style=flat" alt="surerocha" /> </p>
 
@@ -18,4 +18,28 @@ h3 align="left">Idiomas e Ferramentas:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surerocha&show_icons=true&locale=en&layout=compact" alt="surerocha" /> </p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=surerocha&show_icons=true&locale=en" alt="surerocha" /> </p>
+name: Generate Datas
 
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Jobs to update datas
+    runs-on: ubuntu-latest
+    steps:
+      # Snake Animation
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: rafaballerini
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
