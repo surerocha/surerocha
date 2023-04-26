@@ -1,36 +1,12 @@
-![astronomiagithub image](https://user-images.githubusercontent.com/126790749/234316561-4dd57572-a219-4e17-9c00-aaaa7b3b4104.jpg)
-
-<h1 align="center">Oii 👋, Sure</h1>
-<h2 align="center">Um desenvolvedor frontend apaixonado do Brasil.</h3>
-
-<p align="left"> <img src=" https://komarev.com/ghpvc/?username=surerocha&label=Profile%20views&color=0e75b6&style=flat" alt="surerocha" /> </p>
-
-<p align="left"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surerocha" alt="surerocha" /></a > </p>
-
-- 📫 Como chegar até mim **surerochab@gmail.com**
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://instagram.com/surerochab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="surerochab" height="30" width="40" /></a> </p>
-<
-
-h3 align="left">Idiomas e Ferramentas:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons /devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org /en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original .svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </ um> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surerocha&show_icons=true&locale=en&layout=compact" alt="surerocha" /> </p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=surerocha&show_icons=true&locale=en" alt="surerocha" /> </p>
 
 <img width=100% src="https://user-images.githubusercontent.com/126790749/234316561-4dd57572-a219-4e17-9c00-aaaa7b3b4104.jpg"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7&size=35&center=true&vCenter=true&width=1000&lines=Oii,+my+name+is+Sure+Rocha!+🌟;Sou+estudante+de+Informática+do+IFCE📚💙;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7&size=35&center=true&vCenter=true&width=1000&lines=Hii,+my+name+is+Sure+Rocha!+🌟;I+am+a+IFCE's+student+📚💙;)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=surerocha&bg_color=ffffffa&color=ffffff&line=0033ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[🤝] Estou Colaborando com [Sophia Moura](https://github.com/sophimoura)
+💫 Em trabalho com a maravilhosa [Sophia Moura](https://github.com/sophimoura)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=surerocha&show_icons=true&theme=tokyonight" alt="Sure Rocha GitHub stats]" />
 
 
 
@@ -51,16 +27,26 @@ h3 align="left">Idiomas e Ferramentas:</h3>
 ![ GitHub ](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
 ![ Git ](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 
-### - Sistemas operacionais :
+##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Sistemas operacionais:
 ![ Windows ](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)  
 
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Estudante do Instituto Federal do Ceará (IFCE).<b> 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Estudante do Instituto Federal do Ceará (IFCE) campus Fortaleza.<b> 
  
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Cursando o Ensino Médio Téncnico em Informática.<b>
+
+
+##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Linguagens que uso atualmente:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Suzy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Suzy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" alt="Suzy-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />    
+ <!-- <img align="right" alt="Suzy-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/4c/34/a5/4c34a5e3ea14422f31255e1e61d172c1.jpg"> -->
+</div>
 
 
   <div align="center">
@@ -70,24 +56,34 @@ h3 align="left">Idiomas e Ferramentas:</h3>
 
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord" />
-</p>
+
+## 🪐 Como chegar até mim **surerochab@gmail.com**
 
 
-
-## 📫 Como chegar até mim **surerochab@gmail.com**
-
-<h3 align="left"> ## Conecte-se comigo: </h3>
+<h3 align="left"> </h3>
 <p align="left">
-<a href="https://instagram.com/surerochab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="surerochab" height="30" width="40" /></a> </p>
-<
+<a href="https://instagram.com/surerochab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="surerochab" height="50" width="700" /></a> </p>
 
-h3 align="left">Idiomas e Ferramentas:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons /devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org /en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original .svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </ um> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surerocha&show_icons=true&locale=en&layout=compact" alt="surerocha" /> </p>
 
+
+
+
+
+<div>
+ <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=surerocha&show_icons=true&theme=tokyonight" />
+ <img height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surerocha&layout=compact&theme=tokyonight" />
+ <!-- <img height="143.5cm" src="https://github-readme-stats.vercel.app/api/pin/?username=surerocha&repo=github-readme-stats&theme=tokyonight" /> -->
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub" />
+</p>
+<h1 align="center">
+ 
+<img width=400 src="https://streak-stats.demolab.com?user=surerocha&border_radius=5&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D">
+
+ 
 
 # DisciplinaPOO2023.1
 
