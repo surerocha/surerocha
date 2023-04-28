@@ -19,7 +19,7 @@
 
 ______
 
-## <img src="" width="35"><b>🌍 Linguagens: 
+## <b>🌍 Linguagens: 
 
 <div style="diplay: inline_block"><br/>
 
@@ -29,7 +29,7 @@ ______
 
 _____
 
- ##  <img src="" width="35"><b>👽 Ferramentas:
+ ##  <b>👽 Ferramentas:
 
 ![ Visual Studio ](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![ Eclipse ](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
@@ -38,23 +38,10 @@ _____
 
 ______
 
-##  <img src="" width="35"><b>🌟 Sistemas operacionais:
+##  <b>🌟 Sistemas operacionais:
 ![ Windows ](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)  
 
 _______
-
-
-
-##  <img src="" width="35"><b> 
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Sure-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Sure-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="Sure-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />    
- <!-- <img align="right" alt="Sure-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/4c/34/a5/4c34a5e3ea14422f31255e1e61d172c1.jpg"> -->
-</div>
-
-
 
 
   <div align="center">
@@ -96,28 +83,33 @@ _______
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=surerocha&theme=tokyonight&utcOffset=8)
  
 
+
+
 # 🚀👽TRABALHO DE POO 2023.1👽🚀
+
+ 
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/124884847/233846188-848bbf67-fb49-4a48-bd82-3d2552bd84c9.png" width="600px" />
 </div>
 
-###  <img src="" width="35"><b>__Estudantes__
+###  <b>Estudantes
 ## 🪐 _SURE ROCHA BEZERRA_ 🪐
 
 ## 🪐 _SOPHIA ARAÚJO FERREIRA MOURA_ 🪐
 
 
-###  <img src="" width="35"><p>__Turma__
+###  <b>Turma
 ## 🛸 P3 de Informática 🛸
 
 
-###  <img src="" width="35"><p>__Professor__
+###  <b>Professor
 ## 🌠 Roger Moura Sarmento 🌠
 
-###  <img src="" width="35"><p>__Data de entrega__
+###  <b>Data de entrega
 ## 🌙 25/04/2023 🌙
 
-###  <img src="" width="35"><p>__Linguagem de programação__
+###  <b>Linguagem de programação
  <img align="center" alt="Sure-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
+
 
