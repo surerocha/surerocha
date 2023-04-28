@@ -95,13 +95,8 @@ _______
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=surerocha&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=surerocha&theme=tokyonight&utcOffset=8)
  
-<img width=150 src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{surerocha}1212%2Fhit-counter">
-
-
 
 # 🚀👽TRABALHO DE POO 2023.1👽🚀
-
- 
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/124884847/233846188-848bbf67-fb49-4a48-bd82-3d2552bd84c9.png" width="600px" />
