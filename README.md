@@ -73,7 +73,7 @@ _____________
 
 
  __________
- 
+
 <img width=500 src="https://streak-stats.demolab.com?user=surerocha&theme=tokyonight-duo&hide_border=verdadeiro&date_format=M%20j%5B%2C%20Y%5D&card_width=500">
 
  _________
@@ -81,7 +81,11 @@ _____________
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surerocha&theme=tokyonight)
 
+______
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=surerocha&theme=tokyonight)
+
+_______
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=surerocha&theme=tokyonight&utcOffset=8)
  
@@ -114,3 +118,4 @@ ____
 
 ###  <b>Linguagem de programação
  <img align="center" alt="Sure-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
+
