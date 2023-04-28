@@ -14,9 +14,9 @@
 
 <h3 align="left"> </h3>
 <p align="left">
-<a href="https://instagram.com/surerochab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="surerochab" height="30" width="700" /></a> </p>
+<a href="https://instagram.com/surerochab" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="surerochab" height="30" width="70" /></a> </p>
 
-
+-
 
 ______
 
@@ -45,86 +45,48 @@ ______
 _______
 
 
-  <div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{surerocha}/count.svg" /></p> 
-<br>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=surerocha.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+
+
+![Visitantes](https://api.visitorbadge.io/api/visitors?path=surerocha&label=Default%3A%20VISITORS&countColor=%23697689&style=flat)
 
 
 
 
 ### <b>🔭___Estudante do Instituto Federal do Ceará (IFCE) campus Fortaleza___🔭<b> 
  
+____
 
-=======================================================
 ### <b>⚛️Estou cursando o Ensino Médio Técnico em Informática⚛️<b>
 
-
-=======================================================
+____
 
 <div>
  <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=surerocha&show_icons=true&theme=tokyonight" />
  
  <!-- <img height="143.5cm" src="https://github-readme-stats.vercel.app/api/pin/?username=surerocha&repo=github-readme-stats&theme=tokyonight" /> -->
 </div>
-====================================================================
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub" />
-</p>
-<h1 align="center">
 
- ===================================================================
-<img width=500 src="https://streak-stats.demolab.com?user=surerocha&theme=tokyonight-duo&hide_border=verdadeiro&date_format=M%20j%5B%2C%20Y%5D&card_width=500">
-====================================================================
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surerocha&theme=tokyonight)
-====================================================================
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=surerocha&theme=tokyonight)
-====================================================================
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=surerocha&theme=tokyonight&utcOffset=8)
- 
+_____________
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=surerocha&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-_____
-# 🚀👽TRABALHO DE POO 2023.1👽🚀
-
- 
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/124884847/233846188-848bbf67-fb49-4a48-bd82-3d2552bd84c9.png" width="600px" />
-</div>
-
-###  <b>Estudantes
-## 🪐 _SURE ROCHA BEZERRA_ 🪐
-
-## 🪐 _SOPHIA ARAÚJO FERREIRA MOURA_ 🪐
-
-
-###  <b>Turma
-## 🛸 P3 de Informática 🛸
-
-
-###  <b>Professor
-## 🌠 Roger Moura Sarmento 🌠
-
-###  <b>Data de entrega
-## 🌙 25/04/2023 🌙
-
-###  <b>Linguagem de programação
- <img align="center" alt="Sure-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
-
-
+ __________
  
 <img width=500 src="https://streak-stats.demolab.com?user=surerocha&theme=tokyonight-duo&hide_border=verdadeiro&date_format=M%20j%5B%2C%20Y%5D&card_width=500">
 
+ _________
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surerocha&theme=tokyonight)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=surerocha&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=surerocha&theme=tokyonight)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=surerocha&theme=tokyonight&utcOffset=8)
  
 
-
+____
 
 # 🚀👽TRABALHO DE POO 2023.1👽🚀
 
