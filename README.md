@@ -91,8 +91,10 @@ _______
 <img width=500 src="https://streak-stats.demolab.com?user=surerocha&theme=tokyonight-duo&hide_border=verdadeiro&date_format=M%20j%5B%2C%20Y%5D&card_width=500">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surerocha&theme=tokyonight)
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=surerocha&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=surerocha&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=surerocha&theme=tokyonight&utcOffset=8)
+ 
 <img width=150 src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{surerocha}1212%2Fhit-counter">
 
 
