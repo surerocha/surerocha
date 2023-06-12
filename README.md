@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7&size=35&center=true&vCenter=true&width=1000&lines=Hii,+my+name+is+Sure+Rocha!+🌟;I+am+a+IFCE's+student+📚💙;)](https://git.io/typing-svg)
 
 
-### 💫 Em trabalho com a maravilhosa [Sophia Moura](https://github.com/sophimoura), [Isabelly Barbosa](https://github.com/isabellybarbosac) e [Thayná Albano](https://github.com/thaynaxt)
+### 💫 Em trabalho com a [Sophia Moura](https://github.com/sophimoura), a [Isabelly Barbosa](https://github.com/isabellybarbosac) e a [Thayná Albano](https://github.com/thaynaxt)
 
 ### ✨ Como chegar até mim **surerochab@gmail.com**
 
