@@ -89,30 +89,3 @@ _______
 
 ____
 
-# 🚀👽TRABALHO DE POO 2023.1👽🚀
-
- 
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/124884847/233846188-848bbf67-fb49-4a48-bd82-3d2552bd84c9.png" width="600px" />
-</div>
-
-###  <b>Estudantes
-## 🪐 _SURE ROCHA BEZERRA_ 🪐
-
-## 🪐 _SOPHIA ARAÚJO FERREIRA MOURA_ 🪐
-
-
-###  <b>Turma
-## 🛸 P3 de Informática 🛸
-
-
-###  <b>Professor
-## 🌠 Roger Moura Sarmento 🌠
-
-###  <b>Data de entrega
-## 🌙 25/04/2023 🌙
-
-###  <b>Linguagem de programação
- <img align="center" alt="Sure-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
-
