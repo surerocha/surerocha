@@ -3,11 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7&size=35&center=true&vCenter=true&width=1000&lines=Hii,+my+name+is+Sure+Rocha!+🌟;I+am+a+IFCE's+student+📚💙;)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=surerocha&bg_color=ffffffa&color=ffffff&line=0033ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
-### 💫 Em trabalho com a maravilhosa [Sophia Moura](https://github.com/sophimoura) 
+### 💫 Em trabalho com a maravilhosa [Sophia Moura](https://github.com/sophimoura), [Isabelly Barbosa](https://github.com/isabellybarbosac) e [Thayná Albano](https://github.com/thaynaxt)
 
 ### ✨ Como chegar até mim **surerochab@gmail.com**
 
