@@ -50,12 +50,13 @@ _______
 
 
 
-### <b>🔭___Estudante do Instituto Federal do Ceará (IFCE) campus Fortaleza___🔭<b> 
+### <b>🔭___Estudante do Instituto Federal do Ceará (IFCE) campus Fortaleza ___🔭<b> 
  
 ____
 
-### <b>⚛️Estou cursando o Ensino Médio Técnico em Informática⚛️<b>
-
+### <b>⚛️Ensino Médio Técnico em Informática⚛️<b>
+### <b>🌎 Faço curso na Casa de Cultura Britânica🌎 <b>
+### <b>♥️ Sou integrante do grupo MiraIra (IFCE)♥️ <b>
 ____
 
 <div>
