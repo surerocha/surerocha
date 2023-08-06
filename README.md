@@ -50,13 +50,13 @@ _______
 
 
 
-### <b>🔭___Estudante do Instituto Federal do Ceará (IFCE) campus Fortaleza ___🔭<b> 
- 
+### <b>🔭___Estudante do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) ___🔭<b> 
+### <b>🔭___Atualmente estudando Inglês Britânico na Universidade Federal do Ceará (UFC) ___🔭<b> 
 ____
 
-### <b>⚛️Ensino Médio Técnico em Informática⚛️<b>
-### <b>🌎 Faço curso na Casa de Cultura Britânica🌎 <b>
-### <b>♥️ Sou integrante do grupo MiraIra (IFCE)♥️ <b>
+### <b>⚛️Quarto período do Ensino Médio Técnico em Informática (IFCE)⚛️<b>
+### <b>🌎Segundo semestre na Casa de Cultura Britânica (UFC)🌎 <b>
+### <b>♥️ Sou integrante do grupo MiraIra há 1 ano e meio (IFCE)♥️ <b>
 ____
 
 <div>
