@@ -38,6 +38,6 @@
 
 <img height="150cm" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=surerocha&theme=algolia" />
 <img height="150cm" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=surerocha&theme=algolia&utcOffset=8" />
-<img height= "160cm" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surerocha&theme=algolia" />
-<img height="150cm" align="left" src="https://github-readme-stats.vercel.app/api?username=surerocha&theme=algolia&show_icons=true" />
+<img height= "152cm" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surerocha&theme=algolia" />
+<img height="222cm" align="center" src="https://github-readme-stats.vercel.app/api?username=surerocha&theme=algolia&show_icons=true" />
 
