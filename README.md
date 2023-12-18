@@ -3,9 +3,9 @@
 
 <img width=40% align="right" alt="imageComputer" height="=30" width="40" src="https://github.com/surerocha/surerocha/assets/126790749/7c56aa8f-f904-444e-8197-038b196fdf8c"/>
 
-## <b> ___I am studying the fifth semester of integrated technical course in IT at the Federal Institute of Education, Science and Technology of Ceará (IFCE)___ </b>
-## <b>___Currently studying the third semester of British English at the Federal University of Ceará (UFC)___</b> 
-<b>___I am an artist, I dance and perform in the group MiraIra at IFCE for almost 2 years. I am also part of the LPCT (Laboratory of Cultural and Traditional Practices) developing research linked to PIBIC-Jr, the article has the following theme: "The Body of Work and its Presence in Playing Bodies: Study on Corpority from Coco's Play Ceará". I research with the aim of having knowledge in other areas, knowing how to develop research/articles and bringing the human side to projects involving computing.___</b>
+## <b> ___🔹I am studying the fifth semester of integrated technical course in IT at the Federal Institute of Education, Science and Technology of Ceará (IFCE)___ </b>
+## <b>___🔹Currently studying the third semester of British English at the Federal University of Ceará (UFC)___</b> 
+<b>___🔹I am an artist, I dance and perform in the group MiraIra at IFCE for almost 2 years. I am also part of the LPCT (Laboratory of Cultural and Traditional Practices) developing research linked to PIBIC-Jr, the article has the following theme: "The Body of Work and its Presence in Playing Bodies: Study on Corpority from Coco's Play Ceará". I research with the aim of having knowledge in other areas, knowing how to develop research/articles and bringing the human side to projects involving computing.___</b>
 
 ## My e-mail: **surerochab@gmail.com**
 
