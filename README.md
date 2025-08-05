@@ -8,8 +8,6 @@
 💻 Certified **IT Technician** – IFCE (Federal Institute of Ceará)  
 📚 Student at the **Casa de Cultura Britânica** – UFC (Federal University of Ceará)  
 
-🔍 Currently enrolled in a **Data Science training program** with hands-on immersion in real companies. I’ve already completed the **basic, intermediate, advanced, entrepreneurship**, and **life project** modules.  
-
 📄 **Test & Requirements Analyst** – *Integra Pronatec* / *Pronatec Empreender*  
 📢 **Communications Lead** – *H-TEC Project*  
 🧪 Member of the **Laboratory of Technological Innovations (LIT)** – where I work on the *H-TEC Project*  
@@ -18,6 +16,12 @@
 🧠 I led the **MenuTech** project – a mobile and web app that modernized and improved the academic cafeteria experience at IFCE.  
 🍎 The idea was born during a **Challenge-Based Learning (CBL)** experience at the **Apple Developer Academy – Fortaleza**, where I studied two modules.  
 💡 There, I learned way more than just code — the experience sharpened my skills in **UI/UX, leadership, innovation**, and real-world product thinking.
+
+🔍 I completed a **Data Science residency program** promoted by the *State University of Ceará (UECE)*, with a strong focus on hands-on learning and immersion in real companies.
+- Completed all modules: **basic, intermediate, advanced, entrepreneurship**, and **life project**  
+- Developed data science projects focused on solving real-world problems  
+- Applied tools such as **Python**, **pandas**, **exploratory data analysis**, **data visualization**, and **data storytelling**  
+- Participated in mentorships and industry experiences with tech and innovation professionals
 
 ## 👩‍🎓 Technical Background
 
@@ -92,8 +96,6 @@ I believe in integrating art, culture, and human perspectives into technology-ba
 💻 Técnica em **Informática** formada pelo IFCE  
 📚 Estudante da **Casa de Cultura Britânica** da UFC  
 
-🔍 Participando de uma **capacitação em Ciência de Dados**, com direito a imersão com empresas reais. Já conclui os módulos **básico, intermediário, avançado, de empreendedorismo e de projeto de vida**.  
-
 📄 **Analista de Testes e Requisitos** no *Integra Pronatec* / *Pronatec Empreender*  
 📢 Responsável pela **comunicação** no *Projeto H-TEC*  
 🧪 Integrante do **Laboratório de Inovações Tecnológicas (LIT)** – atuando no *Projeto H-TEC*  
@@ -102,6 +104,12 @@ I believe in integrating art, culture, and human perspectives into technology-ba
 ✅ Fui líder do projeto **MenuTech** – um app e sistema web que modernizou a experiência de alunos e da gestão do refeitório acadêmico do IFCE.  
 🍎 A ideia surgiu durante a metodologia **Challenge-Based Learning (CBL)**, na **Apple Developer Academy – Fortaleza**, onde cursei dois módulos.  
 💡 Lá, aprendi muito mais do que apenas programação — desenvolvi habilidades em **UX/UI, liderança, inovação** e pensamento de produto aplicado ao mundo real.
+
+🔍 Concluí uma residência tecnológica em Ciência de Dados promovida pela Universidade Estadual do Ceará (UECE), com forte foco em aprendizado prático e imersão em empresas reais.
+- Conclusão de todos os módulos: básico, intermediário, avançado, empreendedorismo e projeto de vida
+- Desenvolvimento de projetos em Ciência de Dados com foco na resolução de problemas do mundo real
+- Aplicação de ferramentas como Python, pandas, análise exploratória de dados, visualização de dados e storytelling com dados
+- Participação em mentorias e vivências com profissionais do mercado de tecnologia e inovação
 
 ---
 
